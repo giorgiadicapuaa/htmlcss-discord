@@ -47,9 +47,7 @@ p{
 
 .boxblu{
     display: flex;
-    height: 200px;
-    justify-content: center;
-    align-items: center;
+   margin-top: 3em;
 }
 
 .boxrosa{
@@ -61,6 +59,11 @@ p{
    
 }
 
+.bottoni{
+    margin-top: 2em;
+}
+
+
 #download{
     background-color: white;
     color: black;
@@ -68,6 +71,7 @@ p{
     border-radius: 25px;
     width: 150px;
     padding: 0.5em;
+    margin-top: 1em;
    
 }
 
