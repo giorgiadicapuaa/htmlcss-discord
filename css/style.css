@@ -135,11 +135,14 @@ h2{
 
 
 .rettangoloverde{
-    background-color:green ;
     width: 100%;
     min-height: 500px;
     margin: 1em auto;
-    border: dashed 1px black;
+}
+
+#titolone{
+    text-align: center;
+    color: black;
 }
 
 .footernero{
