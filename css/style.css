@@ -97,18 +97,36 @@ p{
 .rettangoloblu{
     width: 60%;
     min-height: 70%;
-    border: dashed 1px black;
-}
-
-.rettangolorosa{
-    background-color: #ffc0cb;
-    width: 40%;
-    min-height: 70%;
     
 }
 
+#primafoto{
+    width: 100%;
+}
+.rettangolorosa{
+    
+    width: 40%;
+    min-height: 70%;
+}
+
+#secondafoto{
+    width: 100%;
+}
+
+h2{
+    font-size: 2em;
+}
+
+.secondoparagrafo{
+    color: black;
+    
+}
 .maingrigio{
     background-color: #d3d3d3;
+}
+
+#terzafoto{
+    width: 100%;
 }
 
 .maingrigio2{
