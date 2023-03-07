@@ -34,6 +34,7 @@ h1{
 p{
     text-align: center;
     margin-top: 1em;
+    
     color: white;
 }
 
@@ -47,16 +48,16 @@ p{
 .boxblu{
     display: flex;
     height: 200px;
-    
     justify-content: center;
-    align-items: center;s
+    align-items: center;
 }
 
 .boxrosa{
     width: 40%;
     min-height: 90%;
     margin: 1em auto;
-    border: dashed 1px black;
+   
+    
    
 }
 
