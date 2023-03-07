@@ -5,8 +5,9 @@
 }
 
 header{
-    max-height: 200px;
-    background-color: #ADD8E6;
+    max-height: 300px;
+    background-image: url(../img/jumbo.png);
+    background-image: ;
     padding-top: 1em;
    
 }
@@ -44,10 +45,12 @@ header{
 }
 
 .boxblu{
-    background-color:#00008b ;
+    /* background-color:#00008b ; */
     display: flex;
-    height: 500px;
+    height: 200px;
     border: dashed 1px black;
+    justify-content: center;
+    align-items: center;s
 }
 
 .boxrosa{
